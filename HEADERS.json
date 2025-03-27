@@ -1,0 +1,19 @@
+{
+    "accept": "text/html, */*; q=0.01",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept-language": "en-US,en;q=0.9",
+    "connection": "keep-alive",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "cookie": "_fbp=fb.2.1738004660015.379709229737016566; _gid=GA1.3.1542261815.1742498783; _ga_PKFFPZ1L8B=GS1.1.1742624896.3.0.1742624906.50.0.0; _ga=GA1.1.290147837.1736406485; _ga_ZZXE2410FP=GS1.1.1742624952.4.1.1742628514.60.0.0",
+    "host": "dps.psx.com.pk",
+    "origin": "https://dps.psx.com.pk",
+    "referer": "https://dps.psx.com.pk/historical",
+    "sec-ch-ua": "\"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"Google Chrome\";v=\"134\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+    "x-requested-with": "XMLHttpRequest"
+}
